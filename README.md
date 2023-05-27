@@ -1,9 +1,10 @@
 <h1 align="center"> Hello World, I'm Bea 👋</h1>
 
-- 🔭 I’m 8th period of bachelor's begree in Mathematics at [@UFSC](https://github.com/UFSC)
+- 🔭 I’m 8th period of bachelor's degree in Mathematics at [@UFSC](https://github.com/UFSC)
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Anything
-  
+- 📫 How to reach me: beatrizcarolinasr@gmail.com
+ 
 <div align="center">
   <a href="https://github.com/beatrizcarolina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
