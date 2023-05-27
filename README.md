@@ -18,15 +18,15 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </div>
   
- <details>
-  <summary>:zap:GitHub Stats</summary>
-  <img align="center" alt="Bea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&hide_border=true" />
- </details>
-
- <details>
-  <summary>:zap:Most Used Languages</summary>
-  <img align="center" alt="Bea's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina" />
- </details>
+<div align="center">
+  <a href="https://github.com/beatrizcarolina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathbalica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathbalica&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+ <div>
+ ![Snake animation](https://github.com/beatrizcarolina/beatrizcarolina/blob/output/github-contribution-grid-snake.svg)
+ </div>
   
   <!--
 Here are some ideas to get you started:
