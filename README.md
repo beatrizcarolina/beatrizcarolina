@@ -24,7 +24,7 @@
   </div>
   
 
-  ![](https://github.com/beatrizcarolina/beatrizcarolina/raw/output/github-contribution-grid-snake.svg)
+  ![](https://github.com/beatrizcarolina/beatrizcarolina/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
  
   <!--
