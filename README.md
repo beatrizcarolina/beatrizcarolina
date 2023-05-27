@@ -3,9 +3,14 @@
 - 🔭 I’m 8th period of bachelor's begree in Mathematics at [@UFSC](https://github.com/UFSC)
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Anything
-
-
- ### <p align="center">Languages</p>
+  
+<div align="center">
+  <a href="https://github.com/beatrizcarolina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+  ### <p align="center">Languages</p>
   <div align="center">
   <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,13 +22,6 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </div>
-  
-<div align="center">
-  <a href="https://github.com/beatrizcarolina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
  
   
   <!--
