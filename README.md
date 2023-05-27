@@ -3,7 +3,7 @@
 - 🔭 I’m 8th period of bachelor's begree in Mathematics at [@UFSC](https://github.com/UFSC)
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
+
 
  ### <p align="center">Languages</p>
   <div align="center">
@@ -17,6 +17,20 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </div>
+  
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Bea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Bea's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina" />
+
+</details>
   
   <!--
 Here are some ideas to get you started:
