@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=g32e74&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a32e74&height=90&section=header"/>
 
 <h1 align="center"> Hello World, I'm Bea 👋</h1>
 
@@ -35,7 +35,7 @@
 
   ![](https://github.com/beatrizcarolina/beatrizcarolina/raw/output/github-contribution-grid-snake-dark.svg)
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=g32e74&height=90&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a32e74&height=90&section=footer"/>
 
  
   <!--
