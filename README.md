@@ -7,9 +7,8 @@
 - 📫 How to reach me: beatrizcarolinasr@gmail.com
  
 <div align="center">
-  <a href="https://github.com/beatrizcarolina">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&count_private=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&count_private=true&theme=dracula" />
+<img   width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff&icon_color=b32e74">
+<img   width="41%"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff">
 </div>
  
 ## Technologies and Tools
