@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hello World, I'm Bea 👋</h1>
 
-Welcome to my profile, a paulista living on the Island of Magic!
+<p align="center"> Welcome to my profile, a paulista living on the Island of Magic! </p>
 
 - 🔭 I’m 8th period of bachelor's degree in Mathematics at [@UFSC](https://github.com/UFSC)
 - 🌱 I’m currently learning **Docker** and **Redis**
@@ -46,10 +46,11 @@ Welcome to my profile, a paulista living on the Island of Magic!
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+<div align="center">
 📊 &nbsp;**This week I spent my time on**
 
  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=beatrizcarolina&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
+</div>
 
   ![](https://github.com/beatrizcarolina/beatrizcarolina/raw/output/github-contribution-grid-snake-dark.svg)
 
