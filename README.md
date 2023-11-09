@@ -3,6 +3,7 @@
 <h1 align="center"> Hello World, I'm Bea 👋</h1>
 
 - 🔭 I’m 8th period of bachelor's degree in Mathematics at [@UFSC](https://github.com/UFSC)
+- 🌱 I’m currently learning **Docker**
 - 📫 How to reach me: beatrizcarolinasr@gmail.com
  
 <div align="center">
