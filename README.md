@@ -46,11 +46,7 @@
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-📊 &nbsp;**This week I spent my time on**
 
- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=beatrizcarolina&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-</div>
 
   ![](https://github.com/beatrizcarolina/beatrizcarolina/raw/output/github-contribution-grid-snake-dark.svg)
 
@@ -58,6 +54,12 @@
 
  
   <!--
+
+  <div align="center">
+📊 &nbsp;**This week I spent my time on**
+
+ ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=beatrizcarolina&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
