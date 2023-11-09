@@ -6,7 +6,7 @@
 
 - 🔭 I’m 8th period of bachelor's degree in Mathematics at [@UFSC](https://github.com/UFSC)
 - 🌱 I’m currently learning **Docker** and **Redis**
-- 👩‍💻 Most of my projects ate avaiable on <a href="https://github.com/beatrizcarolina">Github</a>.</li>
+- 👩‍💻 Most of my projects are avaiable on <a href="https://github.com/beatrizcarolina">Github</a>.</li>
 - 📫 How to reach me: beatrizcarolinasr@gmail.com
  
 <div align="center">
