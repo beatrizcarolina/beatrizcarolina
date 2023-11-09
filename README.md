@@ -8,8 +8,8 @@
  
 <div align="center">
   <a href="https://github.com/beatrizcarolina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&count_private=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&count_private=true&theme=dracula" />
 </div>
  
 ## Technologies and Tools
