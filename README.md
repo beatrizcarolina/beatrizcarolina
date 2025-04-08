@@ -8,13 +8,9 @@
 - 🌱 I’m currently learning **Nest** and **Next**
 - 👩‍💻 Most of my projects are avaiable on <a href="https://github.com/beatrizcarolina">Github</a>.</li>
 - 📫 How to reach me: beatrizcarolinasr@gmail.com
- 
-<div align="center">
-<img   width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff&icon_color=b32e74">
-<img   width="41%"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizcarolina&theme=transparent&hide_border=true" />
 
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff&icon_color=b32e74")
+<img   width="41%"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff">
  
 ## Technologies and Tools
    ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
