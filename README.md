@@ -12,6 +12,8 @@
 <div align="center">
 <img   width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizcarolina&show_icons=true&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff&icon_color=b32e74">
 <img   width="41%"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcarolina&layout=compact&langs_count=20&theme=transparent&hide_border=true" />
+
 </div>
  
 ## Technologies and Tools
